@@ -185,3 +185,8 @@ zigbeeManufacturer:
     manufacturer: _TZ3000_kstbkt6a
     model: TS0207
     deviceProfileName: moisture-battery
+  - id: "TUYATEC-3tipnsrx/RH3001"
+    deviceLabel: RH3001 Water Sensor
+    manufacturer: TUYATEC-3tipnsrx
+    model: RH3001
+    deviceProfileName: moisture-battery
